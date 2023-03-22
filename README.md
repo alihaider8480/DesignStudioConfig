@@ -1,5 +1,7 @@
 # DesignStudioConfig
 
+when you installed design studio you should configure model bank environment variables in local see zainab vidoes to configure model bank 
+
 ![image](https://user-images.githubusercontent.com/40827670/226812710-274e526c-d1c9-4cb7-8259-f9b707b336fb.png)
 
 
@@ -29,4 +31,4 @@ lib Directory (t24 lib)
 
 ![image](https://user-images.githubusercontent.com/40827670/226813823-9b0002e9-fd72-4f69-88d0-0441046e4235.png)
 
-iska bad java ka new project banana hai or uska bad uska andar jar export karni hai t24lib ki or localT24 wali
+iska bad java ka new project banana hai or uska bad uska andar jar export karni hai t24lib ki or localT24 wali or agar local pa model bank hai to uska bad jar export karka localmodel bank ka path par rakho or module ma jar name likho phir usko local pa chalo reflect kara ga or jboss ko restart karo phir
