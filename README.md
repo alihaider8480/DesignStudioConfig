@@ -29,3 +29,4 @@ lib Directory (t24 lib)
 
 ![image](https://user-images.githubusercontent.com/40827670/226813823-9b0002e9-fd72-4f69-88d0-0441046e4235.png)
 
+iska bad java ka new project banana hai or uska bad uska andar jar export karni hai t24lib ki or localT24 wali
